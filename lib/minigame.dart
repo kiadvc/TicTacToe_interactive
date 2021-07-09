@@ -179,15 +179,7 @@ class MiniGameView extends GameView {
 
 
 
- /* _buildElement() {
-    return Stack(
-      Align(
-          alignment: Alignment.center,
-
-      ),
-    );
-  }
-
+ /*
   Align(
   alignment: Alignment.center,
   child: ElevatedButton(
@@ -206,8 +198,7 @@ class MiniGameView extends GameView {
   ),
   ),
   ),
-
-   */
+ */
 
   @override
   Widget getStartPageContent(BuildContext context) {
